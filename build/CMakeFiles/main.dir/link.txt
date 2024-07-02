@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/main.cpp.o -o main  -Wl,-rpath,/home/giovanne/rpgclassic_plataform/src/lib /home/giovanne/rpgclassic_plataform/src/lib/liballeg.so /home/giovanne/rpgclassic_plataform/src/lib/liblogg.so /home/giovanne/rpgclassic_plataform/src/lib/liblogg.so.4.4 /home/giovanne/rpgclassic_plataform/src/lib/liblogg.so.4.4.3 

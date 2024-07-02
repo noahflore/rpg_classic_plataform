@@ -1,0 +1,3 @@
+/home/giovanne/rpgclassic_plataform/build/CMakeFiles/main.dir
+/home/giovanne/rpgclassic_plataform/build/CMakeFiles/edit_cache.dir
+/home/giovanne/rpgclassic_plataform/build/CMakeFiles/rebuild_cache.dir
